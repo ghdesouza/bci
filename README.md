@@ -1,9 +1,3 @@
-Readme
---------------------------------------------------------------------
-This file contains a description of the repository and other
-important information, as descrition of the implementations.
-
-
 Structure of the project
 --------------------------------------------------------------------
 Each Branch has the implementations used in a specific publication
