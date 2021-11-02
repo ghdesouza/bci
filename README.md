@@ -7,7 +7,7 @@ or competition in Brain-Computer Interface.
 Branches
 --------------------------------------------------------------------
 
-- BSPC2021 (Python): Codes used in the paper "Genetic Programming 
+- EPIA2021 (Python): Codes used in the paper "Genetic Programming 
 for Feature Extraction in Motor Imagery Brain-Computer Interface".
 https://doi.org/10.1007/978-3-030-86230-5_18
 
